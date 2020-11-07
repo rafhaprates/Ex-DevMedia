@@ -1,0 +1,60 @@
+.cabecalho {
+    background-color: #deddde;
+    margin: 0px;    
+    overflow: hidden;
+    padding: 15px 8px;
+}
+
+body {
+    margin: 0;
+    background-color: 	#f0eef0;
+    
+  }
+
+.logo, .link1, .link2 {
+    font-family: 'DM Sans', sans-serif;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.cabecalho-direta{
+    float: right;
+    margin-right: 180px;
+}
+.cabecalho a {
+    text-align: center;
+    float: left;
+    padding: 12px;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+
+}
+.input-btn {
+    text-align: right; 
+    margin-top: 10px;
+    border-radius: 30px;
+    padding-top: 9px;
+    border: 0px;
+    
+}
+
+.cabecalho a.logo {
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 180px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: #deddde;
+    color: black;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    width: 100%;
+    text-align: center;
+}
